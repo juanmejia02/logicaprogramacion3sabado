@@ -9,4 +9,4 @@ def contar_palabras_en_archivo(nombre_archivo):#en esta primera linea lo que hic
 
 archivo_nombre = input("Ingrese el nombre del archivo de texto: ")
 print(f"El archivo contiene {contar_palabras_en_archivo(archivo_nombre)} palabras.")
-
+# se imprime el resultado

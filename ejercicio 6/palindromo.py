@@ -7,3 +7,4 @@ if es_palindromo(palabra_frase): # en esta parte lo que hice fue que entre los p
     print(f"{palabra_frase} es un palíndromo.")
 else:
     print(f"{palabra_frase} no es un palíndromo.")
+    #en esta parte imprime si el resultado es un palindromo o no
